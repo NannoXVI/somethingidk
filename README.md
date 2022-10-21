@@ -4,5 +4,5 @@ Shows abunch of useful info
 
 ```lua
 getgenv().Fuck = true
-loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/Warker-Mart'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NannoXVI/somethingidk/main/fuck.lua'))()
 ```
